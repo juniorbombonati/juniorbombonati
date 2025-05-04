@@ -1,8 +1,8 @@
 - 👋 Hi, I'm Jose Bombonati (Junior)
 - 👀 I’m interested in data analytics and business intelligence
-- 💻 My main skills are SQL, Dax, Data Modelling
-- 📚 I’m currently focusing in improve python skills for data analysis
-- 💞️ I’m looking to collaborate on data analysis projects and show my own projects
+- 💻 I have advanced SQL skills, such as window functions, cte's, subqueries, time series, segmentations and conditional agroupments. I like to use the language to solve real business problems with clarity and precision. I also have good knowledge and experience in DAX, Data Modeling, and knowledge in Python data analisys libraries, such Pandas, Numpy, Matplotlib. 
+- 📚 I’m currently focusing on improve my data analisys skills
+- 💞️ I’m looking to show my data projects and collaborate whith projects in common with my goals
 - 📫 How to reach me linkedin.com/in/jose-roberto-bombonati/
 
 <!---
